@@ -1,0 +1,15 @@
+.About_sec .Tabside li {
+    margin-right: 2px;
+}
+.site-logo div,.site-logo h1{
+    display: inline-block;
+    color:#ffffff;
+}
+.site-logo h1{
+    margin-left: 10px;
+}
+@media screen and (max-width: 736px){
+    header .site-logo{
+        width:250px;
+    }
+}
